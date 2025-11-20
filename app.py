@@ -22,8 +22,8 @@ JOBS =[
     {
     'id':4,
     'title':'Backend',
-    'location':'Sydney,Australia',
-    'salary':'$120,000'
+    'location':'Perth,Australia',
+    'salary':'$150,000'
     }
 ]
 
